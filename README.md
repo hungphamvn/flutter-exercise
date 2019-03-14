@@ -1,22 +1,12 @@
-# hello_rectangle
+# Bunch of my playground and practices with Flutter
 
-A new Flutter project.
+Feel free to dig into it and always appreciate your comments. 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+* [Study Course]: https://github.com/flutter/udacity-course
 
 
-Structure:
- |- services: fetching api or data
- |- redux: Redux package for state management with InheritedWidget
- |- ui: all of UI
+Some reference video you might interesting:
+* https://www.youtube.com/watch?v=zKXz3pUkw9A
+* https://www.youtube.com/watch?v=n_5JULTrstU
