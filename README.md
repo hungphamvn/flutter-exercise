@@ -4,7 +4,7 @@ Feel free to dig into it and always appreciate your comments.
 
 ## Getting Started
 
-* [Study Course]: https://github.com/flutter/udacity-course
+* [Study Course](https://github.com/flutter/udacity-course) 
 
 
 Some reference video you might interesting:
